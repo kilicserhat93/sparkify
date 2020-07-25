@@ -18,7 +18,7 @@
   "sparkify.ipynb" file contains all the code of the work.
   
 6- Authors:
-  I prepared this work mysel.
+  I prepared this work myself.
   
 7- Copyright and Licence:
   If you use the codes of this project in a scientific publication, I would appreciate citation.
