@@ -1,4 +1,8 @@
 # sparkify
+Here is the medium link where I explained the works on this project:
+https://medium.com/@kilicserhat8/here-is-how-i-predicted-the-churner-users-of-music-company-2ddd70890fdd
+
+
 1- Motivation For The Project:
   I worked on this project for my capstone project. 
   
